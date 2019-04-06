@@ -1,6 +1,6 @@
 # Site settings
 title: GF | Sketch
-description: Centro de Bisquejos Global Family
+description: Centro de Bosquejos Global Family
 baseurl: "/sk" # the subpath of your site, e.g. /blog
 url: "https://global-family.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
