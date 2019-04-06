@@ -1,8 +1,8 @@
 # Site settings
 title: GF | Skeych
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eriick10.github.io/sk/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/sk" # the subpath of your site, e.g. /blog
+url: "https://eriick10.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lorem Ipsum
@@ -32,11 +32,11 @@ links:
   - title: Home
     url: /
   - title: Series
-    url: /series
+    url: /sk/series
   - title: Tags
-    url: /tags
+    url: /sk/tags
   - title: About Me
-    url: /about
+    url: /sk/about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
