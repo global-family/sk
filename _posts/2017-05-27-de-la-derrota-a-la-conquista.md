@@ -28,7 +28,7 @@ Las zorras pequeñas.
 - Lo mejor es aceptar la derrota, la embarre.
 - Eso significa que APRENDÍ.
 - Sentirme completamente derrotado es necesario.
-### RECONOCER LA DERROTA, ES NECESARIO.
+# RECONOCER LA DERROTA, ES NECESARIO.
 - Vr4. Los israelitas quedaron paralizados.
 - Miedo ante eso y su valentía se desvaneció.
 - La derrota COMIENZA EN EL CORAZÓN.
