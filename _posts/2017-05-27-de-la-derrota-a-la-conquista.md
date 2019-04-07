@@ -20,9 +20,8 @@ Jericó: Dios con ellos.
 Hai: ellos son Dios.
 
 ## A). Pasos para la derrota (Derrota de Haí).
-- Vr1. Desobedeció las instrucciones de lo que debía ser apartado para el señor.
-- a la manera de Dios siempre hay victoria.
-- Las zorras pequeñas.
+- Vr1. Desobedeció las instrucciones de lo que debía ser apartado para el señor. a la manera de Dios siempre hay victoria.
+Las zorras pequeñas.
 - Espías con mal informe
 - Pilas con la monotonía.
 - Vr4. Completamente derrotados.
@@ -62,7 +61,7 @@ VUELVE AL MISMO TERRITORIO A CONQUISTAR.
 Una humildad para reconocer lo que en el pasado nos afectó.
 No volver atrás.
 La humildad nos hace salir de la derrota y vivir en la victoria.
-RECONOCER.
+# RECONOCER.
 Vr6. Pues dirán.
 Josué conocía lo que sus enemigos estaban hablando.
 Saber lo que el enemigo dice de mi, saber cómo opera.
