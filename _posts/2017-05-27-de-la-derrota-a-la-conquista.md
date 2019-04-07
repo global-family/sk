@@ -12,47 +12,47 @@ tags:
 - ministerio
 categories:
 twitter_text: 'Put your twitter description here.'
-introduction: 'Put your description here.'
+introduction: 'Josue 1:8.'
 ---
 
-YJosué 1-8.
+- Josué 1-8.
 Jericó: Dios con ellos.
 Hai: ellos son Dios.
-Hai:
-A). Pasos para la derrota (Derrota de Haí).
-Vr1. Desobedeció las instrucciones de lo que debía ser apartado para el señor.
-a la manera de Dios siempre hay victoria.
-Las zorras pequeñas.
-Espías con mal informe
-Pilas con la monotonía.
-Vr4. Completamente derrotados.
-Lo mejor es aceptar la derrota, la embarre.
-Eso significa que APRENDÍ.
-Sentirme completamente derrotado es necesario.
-RECONOCER LA DERROTA, ES NECESARIO.
-Vr4. Los israelitas quedaron paralizados.
-Miedo ante eso y su valentía se desvaneció.
-La derrota COMIENZA EN EL CORAZÓN.
-Vr10. Que pasara con la honra de tu gran nombre.
-Hay grandes problemas cuando la honra se perdió.
+
+## A). Pasos para la derrota (Derrota de Haí).
+- Vr1. Desobedeció las instrucciones de lo que debía ser apartado para el señor.
+- a la manera de Dios siempre hay victoria.
+- Las zorras pequeñas.
+- Espías con mal informe
+- Pilas con la monotonía.
+- Vr4. Completamente derrotados.
+- Lo mejor es aceptar la derrota, la embarre.
+- Eso significa que APRENDÍ.
+- Sentirme completamente derrotado es necesario.
+### RECONOCER LA DERROTA, ES NECESARIO.
+- Vr4. Los israelitas quedaron paralizados.
+- Miedo ante eso y su valentía se desvaneció.
+- La derrota COMIENZA EN EL CORAZÓN.
+- Vr10. Que pasara con la honra de tu gran nombre.
+- Hay grandes problemas cuando la honra se perdió.
 Sentir que la honra se nos está perdiendo.
-B). Como Dios asume nuestras derrotas.
-Levántate.
-porque está Josué arrodillado llorando.
-Soy líder no puedo quedar derrotada.
-SE TIENE QUE LEVANTAR EL QUE LA EMBARRO
-PENSAR COMO ME VOY A LEVANTAR.
+## B). Como Dios asume nuestras derrotas.
+- Levántate.
+- porque está Josué arrodillado llorando.
+- Soy líder no puedo quedar derrotada.
+- SE TIENE QUE LEVANTAR EL QUE CAYO
+PENSAR COMO LEVANTARSE.
 SANTIFICA (por qué robaron, engañaron y mintieron).
-Ir antes y mirar.
-Terrible cuando creo que puedo conquistar con la leña anterior.
-A la guerra no se manda gente con conflictos.
-destruir las cosas que guardamos que fueron para destruirlas, el estar con nosotros nuevamente.
-Se vuelven pacto con Dios.
-mi derrota estuvo: en confiar en mi, y no buscar la mano De Dios conmigo.
-Pacto con Dios verdaderamente, COMO DIOS ME DIGA.
-Volver mi corazón a Dios.
-DIOS DE PACTO, el problema es de Dios la conquista no la mía.
-C). Como volver a conquista.
+- Ir antes y mirar.
+- Terrible cuando creo que puedo conquistar con la leña anterior.
+- A la guerra no se manda gente con conflictos.
+- destruir las cosas que guardamos que fueron para destruirlas, el estar con nosotros nuevamente.
+- Se vuelven pacto con Dios.
+- mi derrota estuvo: en confiar en mi, y no buscar la mano De Dios conmigo.
+- Pacto con Dios verdaderamente, ### COMO DIOS ME DIGA.
+- Volver mi corazón a Dios.
+- DIOS DE PACTO, el problema es de Dios la conquista no la mía.
+## C). Como volver a conquista.
 Dios me quiere enseñar como lo tengo que hacer.
 Se fueron con 30.000, con valentía.
 Hoy tengo que sacar el espíritu de derrota.
