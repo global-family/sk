@@ -16,9 +16,10 @@ introduction: 'Josue 1:8.'
 ---
 
 - **Josué 1-8.**
-- Jericó: Dios con ellos.
-- Hai: ellos son Dios.
-
+```
+Jericó: Dios con ellos.
+Hai: ellos son Dios.
+```
 ## A). Pasos para la derrota (Derrota de Haí).
 - Vr1. Desobedeció las instrucciones de lo que debía ser apartado para el señor. a la manera de Dios siempre hay victoria.
 Las zorras pequeñas.
@@ -82,13 +83,13 @@ SANTIFICA (por qué robaron, engañaron y mintieron).
 - Pedir la estrategia para conquistar.
 -Con los ancianos tenía que salir Josué.
 - Fue a hai con soldados rasos , Jericó con los 12 y levitas.
-### NINGUNA CONQUISTA SE HACE SIN UNA VIDS ESPIRITUAL.
+### NINGUNA CONQUISTA SE HACE SIN UNA VIDA ESPIRITUAL.
 - Jesus es mi consejero.
 - Solo nos derrotamos fácilmente.
 - Con hombres de guerra no de plomo (Conforme).
 - No andar con gente débil.
 - Hicieron que sus amigos se desgastaran.
-- no pelear con el enemigo.
+- No pelear con el enemigo.
 - Vr19. Enfocados en la conquista.
 - porque no estaba ocupado en pecar sino en conquistar.
 - Vr28. Josué incendió la ciudad y se convirtió en un montón de piedras.
