@@ -15,7 +15,7 @@ twitter_text: 'Put your twitter description here.'
 introduction: 'Josue 1:8.'
 ---
 
- Josué 1-8.
+- Josué 1-8.
 - **Jericó: Dios con ellos.**
 - **Hai: ellos son Dios.**
 
