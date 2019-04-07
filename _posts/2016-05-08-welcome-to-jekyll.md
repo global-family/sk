@@ -5,7 +5,7 @@ A LA CONQUISTA"
 date: 2017-05-27 16:00:00
 image: '/assets/img/'
 description: 'De la derrota a la conquista'
-main-class: 'personal'
+main-class: 'jekyll'
 color: '#B31917'
 tags:
 - personal
