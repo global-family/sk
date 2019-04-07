@@ -30,7 +30,7 @@ Las zorras pequeñas.
 - Lo mejor es aceptar la derrota, la embarre.
 - Eso significa que APRENDÍ.
 - Sentirme completamente derrotado es necesario.
-# RECONOCER LA DERROTA, ES NECESARIO.
+### RECONOCER LA DERROTA, ES NECESARIO.
 - `Vr4.` Los israelitas quedaron paralizados.
 - Miedo ante eso y su valentía se desvaneció.
 - La derrota COMIENZA EN EL CORAZÓN.
@@ -57,11 +57,11 @@ Sentir que la honra se nos está perdiendo.
 - Hoy tengo que sacar el espíritu de derrota.
 - Rendir mi vida al señor.
 - Josué fue toda una noche a una cueva.
-# VUELVE AL MISMO TERRITORIO A CONQUISTAR.
+### VUELVE AL MISMO TERRITORIO A CONQUISTAR.
 - Una humildad para reconocer lo que en el pasado nos afectó.
 - No volver atrás.
 - La humildad nos hace salir de la derrota y vivir en la victoria.
-# RECONOCER.
+### RECONOCER.
 - `Vr6.` Pues dirán.
 - Josué conocía lo que sus enemigos estaban hablando.
 - Saber lo que el enemigo dice de mi, saber cómo opera.
