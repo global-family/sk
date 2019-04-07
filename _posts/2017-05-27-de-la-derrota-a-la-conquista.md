@@ -3,7 +3,7 @@ layout: post
 title: "DE LA DERROTA
 A LA CONQUISTA"
 date: 2017-05-27 16:00:00
-image: '/assets/img/'
+image: 'https://images.unsplash.com/photo-1530202741-e752bdc9d582?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80'
 description: 'de la derrota a la conquista'
 main-class: 'familia'
 color: '#B31917'
