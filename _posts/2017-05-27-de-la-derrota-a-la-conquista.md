@@ -15,9 +15,9 @@ twitter_text: 'Put your twitter description here.'
 introduction: 'Josue 1:8.'
 ---
 
-- Josué 1-8.
-- **Jericó: Dios con ellos.**
-- **Hai: ellos son Dios.**
+- **Josué 1-8.**
+- Jericó: Dios con ellos.
+- Hai: ellos son Dios.
 
 ## A). Pasos para la derrota (Derrota de Haí).
 - Vr1. Desobedeció las instrucciones de lo que debía ser apartado para el señor. a la manera de Dios siempre hay victoria.
