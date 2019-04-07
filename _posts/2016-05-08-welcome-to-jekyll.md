@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Welcome to Jekyll"
-date: 2016-05-08 20:34:26
+title: "DE LA DERROTA
+A LA CONQUISTA"
+date: 2017-05-27 16:00:00
 image: '/assets/img/'
-description: 'Put your description here.'
-main-class: 'jekyll'
+description: 'De la derrota a la conquista'
+main-class: 'personal'
 color: '#B31917'
 tags:
-- jekyll
+- personal
+- ministerio
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Put your description here.'
