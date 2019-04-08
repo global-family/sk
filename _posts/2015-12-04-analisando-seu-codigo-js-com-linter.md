@@ -2,7 +2,7 @@
 layout: post
 title: "Analisando seu código JS com um linter"
 date: 2015-12-04 22:43:23
-image: '/assets/img/linter/errors-list.png'
+image: 'https://res.cloudinary.com/global-family/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1554658343/Logo_Global.png'
 description: 'Valide seu código em JS/ES6 em busca de erros, warnings, códigos esquecidos e melhore a sua qualidade. Seu amiguinho agradece um código mais limpo.'
 main-class: 'js'
 color: '#D6BA32'
