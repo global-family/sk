@@ -75,5 +75,4 @@ introduction: 'How to use this template'
 - Diezmo: es prueba para nuestra corazón.
 - Dios nos prueba en las finanzas.
 ```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hIyu5n1Gy1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Predica](https://www.youtube.com/embed/hIyu5n1Gy1I)
