@@ -39,9 +39,11 @@ introduction: 'How to use this template'
 **LUCAS 4:16-21**
 - Jesús es el mesías que estaba prometido a dar libertad a los cautivos.
 ### CÓMO OPERA QUE SE MANIFIESTA LA CAUTIVIDAD
+```
 1. **CADENAS**
 2. **LAZOS**
 3. **ATADURA**
+```
 **JUECES 16**
 - `V4-5` estrategia del enemigo: engañar, infórmate en qué consiste su gran fuerza, vencerlo, atarlo y dominarlo.
 - `V17` cuidado con descubrir el corazón.
@@ -70,9 +72,10 @@ introduction: 'How to use this template'
 - El enemigo cautiva la alabanza y la adoración.
 - Dios quiere que le alabemos.
 **1 TIM 6:6**
+
 ```
 - Lazo: amor al dinero
 - Diezmo: es prueba para nuestra corazón.
 - Dios nos prueba en las finanzas.
 ```
-![Predica](https://www.youtube.com/embed/hIyu5n1Gy1I)
+![Predica](https://youtu.be/hIyu5n1Gy1I)
