@@ -5,9 +5,9 @@
             jsonFormat      : 'title,tags,categories,url,date',
             template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
             searchResults   : '.search-results',
-            searchResultsTitle   : '<h4>Search results:</h4>',
+            searchResultsTitle   : '<h4>resultado de busqueda:</h4>',
             limit           : '10',
-            noResults       : '<p>Oh snap!<br/><small>We found nothing :(</small></p>'
+            noResults       : '<p>Oh Ouch!<br/><small>No pudimos encontrar nada :(</small></p>'
         }, options);
 
         var properties = settings.jsonFormat.split(',');
