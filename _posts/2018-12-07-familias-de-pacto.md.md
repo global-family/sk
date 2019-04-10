@@ -22,10 +22,10 @@ introduction: "Es una palabra basada en Josue 24 lo que lleva a una familia a ha
 
 **JOSUÉ 24:14-28**
 
-> Qué dioses hemos levantado? <br/>
-> `V15` firmeza de una decisión como hombre de casa <br/>
-> La relación con Dios debe ser en dos sentidos: el me bendice y yo? Soy recíproco? <br/>
-> Todo se trata del corazón expuesto de Dios en su palabra: cada palabra tiene la
+> - Qué dioses hemos levantado? <br/>
+> - `V15` firmeza de una decisión como hombre de casa <br/>
+> - La relación con Dios debe ser en dos sentidos: el me bendice y yo? Soy recíproco? <br/>
+> - Todo se trata del corazón expuesto de Dios en su palabra: cada palabra tiene la
 sabiduría de Dios y Él espera de nosotros que seamos humildes ante nuestra respuesta. <br/>
 
 ### JOSUÉ LLEVÓ AL PUEBLO A HACER PACTO CON DIOS
@@ -33,10 +33,11 @@ sabiduría de Dios y Él espera de nosotros que seamos humildes ante nuestra res
 
 **EX 4: 18-26 / GEN 17:1-27**
 
-###CARACTERÍSTICAS DE UN PACTO
+### CARACTERÍSTICAS DE UN PACTO
+
 1. Andar delante de Dios y buscar la perfección.
 2. Promesa de la multiplicación
-3. Cambio de nombre: nueva naturaleza [si no generamos cambios radicales nohabrá cambios]
+3. Cambio de nombre: `nueva naturaleza` [si no generamos cambios radicales nohabrá cambios]
 4. Las naciones y la autoridad [falta de visión y proyección] pensar en grande en toda
 área.
 5. Mis generaciones [no tenerlos en poco]
@@ -49,3 +50,6 @@ condiciones]
 11. No importa la edad
 
 ### ES MÁS FÁCIL QUE NAZCA ALGO NUEVO QUE RESUCITAR ALGO MUERTO
+
+![mensaje](https://i.ytimg.com/vi/aq1knMn8vBU/hqdefault.jpg)
+[ENCUENTRA LA PREDICA AQUI](https://youtu.be/aq1knMn8vBU)
