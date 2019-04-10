@@ -2,7 +2,7 @@
 layout: post
 title: "DESATADLE Y DEJARLE IR"
 date: 2019-01-31 16:00:00
-image: '/assets/img/'
+image: '/assets/img/LogoGlobal01.png'
 description: 'Seminario de empoderamiento, Pastor Jose Villanueva'
 main-class: 'discipulado'
 color: '#7AAB13'
@@ -13,7 +13,7 @@ tags:
 - cautividad
 categories:
 twitter_text: 'How to use this template'
-introduction: 'How to use this template'
+introduction: 'Es una palabra dada en el seminario de empoderamiento, con la exhortación de volvernos a Dios en arrepentimiento genuino.'
 ---
 ```
 - 4 (E) que no podemos permitir: escasos, estrechos, estériles y estancados.
@@ -79,4 +79,4 @@ introduction: 'How to use this template'
 - Dios nos prueba en las finanzas.
 ```
 ![mensaje](https://i.ytimg.com/vi/hIyu5n1Gy1I/hqdefault.jpg)
-[ENCUENTRA LA PREDICA AQUI](https://youtu.be/hIyu5n1Gy1I) 
+[ENCUENTRA LA PREDICA AQUI](https://youtu.be/hIyu5n1Gy1I)
