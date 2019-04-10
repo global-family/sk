@@ -1,8 +1,8 @@
 # Site settings
 title: GF | Sketch
 description: Centro de Bosquejos Global Family
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/sk" # the subpath of your site, e.g. /blog
+url: "https://global-family.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Global Family
